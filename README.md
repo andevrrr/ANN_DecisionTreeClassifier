@@ -10,6 +10,7 @@ I decided to test the dataset with Neural Network and then compare it with Decis
 Firstly, I tested the program with DecisionTreeClassifier as I am more familiar with that method. The results were pretty all right:
 • The confusion metrix:
 ![alt text](https://github.com/andevrrr/ANN_DecisionTreeClassifier/blob/main/imagies/plot_1.png?raw=true)
+
 • The accuracy score:0.910
 • There call score: 0.906 (Recall measures the proportion of actual positives that were predicted correctly. It takes into account false negatives, which are cases that should have been flagged for inclusion but weren't.)
 • The precision score: 0.829 (Precision gives the proportion of positive predictions that are actually correct. It takes into account false positives, which are cases that were incorrectly flagged for inclusion.”)
@@ -25,6 +26,7 @@ What I liked in Neural Network is that you can choose hidden layer sizes, if you
 The results from using Neural Network:
 • The confusion metrix:
 ![alt text](https://github.com/andevrrr/ANN_DecisionTreeClassifier/blob/main/imagies/plot_2.png?raw=true)
+
 • The accuracy score: 0.912
 • The recall score: 0.905
 • The precision score: 0.792
